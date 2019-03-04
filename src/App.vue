@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Toolbar /><img width="25%" src="./assets/logo.png" /> <HelloWorld />
+    <Toolbar /> <img width="25%" src="./assets/logo.png" /> <HelloWorld />
   </div>
 </template>
 
